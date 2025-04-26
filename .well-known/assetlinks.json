@@ -1,1 +1,9 @@
-[]
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.priv.privclient",
+    "sha256_cert_fingerprints":
+    ["51:88:10:C9:78:4E:BA:6E:D1:44:61:1E:BA:60:F4:24:4E:77:24:91:A1:E2:C2:69:DC:4B:26:BB:6C:AB:55:DC"]
+  }
+}]
